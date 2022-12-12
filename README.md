@@ -2,10 +2,10 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD2155&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Web+Developer;Front-End+Developer;Back-End+Developer)](https://git.io/typing-svg)
 
-<table cellpadding="0">
-<tr style="padding: 0">
-<td width="320px"><img align="left" src="./Img-github.png" width="320px" height="320px"></td>
-<td><p>
+<table>
+<tr>
+<td style="padding: 0; border: 0" width="320px"><img align="left" src="./Img-github.png" width="320px" height="320px"></td>
+<td style="padding: 0; border: 0"><p>
 [pt-BR]<br>
 Enquanto eu fazia bacharel em Ciências Contábeis na UNOESC, participei de eventos sobre a área tech e fiquei cada vez mais interessado em fazer uma transição de carreira para T.I. Minha formação é em Ciências Contábeis e eu atuei como auxiliar contábil por mais de um mês, mas logo percebi que eu não me sentia satisfeito e feliz fazendo aquilo, gostaria de fazer algo mais cativante, no qual me apaixonei, a programação. Comecei a transição em novembro de 2021 e foi a melhor decisão que tomei.
 <br>
