@@ -1,11 +1,26 @@
+<style>
+  .container{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    text-align: justify;
+  }
+
+  .img__container {
+    min-width:320px;
+    align-self: flex-start;
+    margin-right: 15px;
+  }
+
+</style>
+
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, my name is João </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD2155&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Web+Developer;Front-End+Developer;Back-End+Developer)](https://git.io/typing-svg)
 
-<table>
-<tr>
-<td style="padding: 0; border: 0" width="320px"><img align="left" src="./Img-github.png" width="320px" height="320px"></td>
-<td style="padding: 5; border: 0"><p>
+<div class="container">
+<div class="img__container"><img align="left" src="./Img-github.png" width="320px" height="320px"></div>
+<div>
 [pt-BR]<br>
 Enquanto eu fazia bacharel em Ciências Contábeis na UNOESC, participei de eventos sobre a área tech e fiquei cada vez mais interessado em fazer uma transição de carreira para T.I. Minha formação é em Ciências Contábeis e eu atuei como auxiliar contábil por mais de um mês, mas logo percebi que eu não me sentia satisfeito e feliz fazendo aquilo, gostaria de fazer algo mais cativante, no qual me apaixonei, a programação. Comecei a transição em novembro de 2021 e foi a melhor decisão que tomei.
 <br>
@@ -19,12 +34,9 @@ While I was studying Bachelor of Science in Accounting at UNOESC, I participated
 <br>
 Today, I completed the Kenzie Academy Brazil course and learned much more than I thought possible in such a short time, unlocking my ability to learn anything within a week. My goal is to establish myself as a top-notch developer and create tools to satisfy and impress the companies and start-ups I intend to work for.
 </p>
-</td>
-</tr>
-</table>
- 
+</div>
 
-
+</div>
 
 ---
 
@@ -34,7 +46,7 @@ Today, I completed the Kenzie Academy Brazil course and learned much more than I
 ⚡ Fun fact <strong>tenho 21 anos e já sou casado</strong></h4> 
 </div>
 
-***************
+---
 
 <div align="center">
   <img height="150em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=joaofranciscoguarda&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
