@@ -2,8 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD2155&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Web+Developer;Front-End+Developer;Back-End+Developer)](https://git.io/typing-svg)
 
-<table>
-<tr>
+<table cellpadding="0">
+<tr style="padding: 0">
 <td width="320px"><img align="left" src="./Img-github.png" width="320px" height="320px"></td>
 <td><p>
 [pt-BR]<br>
