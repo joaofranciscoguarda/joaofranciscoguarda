@@ -1,31 +1,16 @@
-<style>
-  .container{
-    display: flex;
-    flex-direction: row;
-    align-items: center;
-    text-align: justify;
-  }
-
-  .img__container {
-    min-width:320px;
-    align-self: flex-start;
-    margin-right: 15px;
-  }
-
-</style>
-
 <h1 align="center">Hi  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>, my name is João </h1>
 
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=FD2155&center=true&vCenter=true&width=1000&lines=Software+Developer;Full+Stack+Web+Developer;Front-End+Developer;Back-End+Developer)](https://git.io/typing-svg)
 
-<div class="container">
-<div class="img__container"><img align="left" src="./Img-github.png" width="320px" height="320px"></div>
+<div >
+<div ><img align="left" src="./Img-github.png" width="320px" height="320px"></div>
 <div>
 [pt-BR]<br>
 Enquanto eu fazia bacharel em Ciências Contábeis na UNOESC, participei de eventos sobre a área tech e fiquei cada vez mais interessado em fazer uma transição de carreira para T.I. Minha formação é em Ciências Contábeis e eu atuei como auxiliar contábil por mais de um mês, mas logo percebi que eu não me sentia satisfeito e feliz fazendo aquilo, gostaria de fazer algo mais cativante, no qual me apaixonei, a programação. Comecei a transição em novembro de 2021 e foi a melhor decisão que tomei.
 <br>
 <br>
 Hoje, concluí o curso da Kenzie Academy Brazil e aprendi muito mais do que eu acreditava ser possível em tão pouco tempo, debloqueando minhas capacidades de aprender qualquer coisa dentro de uma semana. Minha meta é me firmar como um desenvolvedor de alto nível e criar ferramentas para satisfazer e impressionar as empresas e start-ups das quais pretendo trabalhar.
+<br>
 <br>
 <br>
 [En]<br>
