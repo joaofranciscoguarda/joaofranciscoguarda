@@ -45,14 +45,26 @@ Today, I completed the Kenzie Academy Brazil course and learned much more than I
 <img height="40" width="40" src="https://cdn.simpleicons.org/html5/FD2155"/> 
 <img height="40" width="40" src="https://cdn.simpleicons.org/javascript/FD2155"/> 
 <img height="40" width="40" src="https://cdn.simpleicons.org/typescript/FD2155"/> 
-<img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/FD2155"/> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/nodedotjs/FD2155"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/python/FD2155"/> 
+<p align="center">
+<img height="40" width="40" src="https://cdn.simpleicons.org/react/FD2155"/> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/reacthookform/FD2155"/> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/chakraui/FD2155"/> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/vuedotjs/FD2155"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/vuetify/FD2155"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/jest/FD2155"/> 
+</p>
 <p align="center">
 <img height="40" width="40" src="https://cdn.simpleicons.org/express/FD2155"/> 
 <img height="40" width="40" src="https://cdn.simpleicons.org/nestjs/FD2155"/> 
-<img height="40" width="40" src="https://cdn.simpleicons.org/react/FD2155"/> 
-<img height="40" width="40" src="https://cdn.simpleicons.org/angular/FD2155"/> 
-<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/FD2155"/> 
-</p>
+<img height="40" width="40" src="https://cdn.simpleicons.org/django/FD2155"/> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/docker/FD2155"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/prisma/FD2155"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/postgresql/FD2155"/>
+<img height="40" width="40" src="https://cdn.simpleicons.org/github/FD2155"/> 
+<img height="40" width="40" src="https://cdn.simpleicons.org/insomnia/FD2155"/>
+</p>	
 </p>
 </div>
 </div>
