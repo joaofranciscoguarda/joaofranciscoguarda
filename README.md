@@ -73,6 +73,6 @@ Today, I completed the Kenzie Academy Brazil course and learned much more than I
 
 <h3 align="center">Entre em contato:</h3>
 <p align="center"><img src="https://custom-icon-badges.demolab.com/badge/-joaofrancisco.guarda@gmail.com-FD2155?style=for-the-badge&logo=mention&logoColor=white"> 
-<a href="https://linkedin.com/in/jessicaparizotto" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-FD2155?style=for-the-badge&logo=linkedin&logoColor=white"></a>
+<a href="https://linkedin.com/in/joao-francisco-guarda-pozzer" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-FD2155?style=for-the-badge&logo=linkedin&logoColor=white"></a>
 <a href="https://instagram.com/dev.humanas" target="blank"><img src="https://custom-icon-badges.demolab.com/badge/-Instagram-FD2155?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
