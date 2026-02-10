@@ -10,11 +10,11 @@
 
 ### 👋 About Me 
 
-I'm João Pozzer — a high-agency full-stack developer who enjoys turning complex challenges into clean, scalable solutions. I write code with intention, care about maintainability and performance, and believe that clear structure beats clever hacks.
+I'm João "John" Pozzer, a high-agency full-stack developer who enjoys turning complex challenges into clean, scalable solutions. I write code with intention, care about maintainability and performance, and believe that clear structure beats clever hacks.
 
-My favorite stack includes **Laravel**, **React (via Inertia.js)**, **TypeScript**, **Docker**, and **AWS** — and I regularly work across both front and back ends, always prioritizing **security**, **readability**, and **team clarity**.
+My favorite stack includes **Laravel**, **React (via Inertia.js)**, **TypeScript**, **Docker**, and **AWS**; I regularly work across both front and back ends, always prioritizing **security**, **readability**, and **team clarity**.
 
-What really drives me is building systems that *actually build value for people* — whether it's automating workflows, improving performance, or shipping MVPs under pressure. I’m proactive, loyal, and committed to doing work that matters.
+What really drives me is building systems that *actually build value for people*, whether it's automating workflows, improving performance, or shipping MVPs under pressure. I’m proactive, loyal, and committed to doing work that matters.
 
 <br>
 </div>
